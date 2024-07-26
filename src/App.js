@@ -52,7 +52,7 @@ function App() {
       </div>
       <div className='absolute top-5 md:right-5 font-custom text-[15px] md:text-2xl text-white outline p-2'>
         <div className='flex'>
-          <span className='hidden md:flex'>CA:&nbsp;</span>coming soon...
+          <span className='hidden md:flex'>CA:&nbsp;</span>6bSLnFkQMoAVYresEc1DegkHfKHVwXvH3iwUtpWZpump
         </div>
       </div>
         <div className='text-[140px] -mt-[45%] md:-mt-[25%] font-custom text-[#ff79eb]'>
